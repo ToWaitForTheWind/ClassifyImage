@@ -26,7 +26,7 @@ function copyAndPaste(sourcePath, targetPath, imageCount) {
   console.log(`${sourcePath}  ====>  ${targetFullPath}`)
 }
 
-let widthCount = 426
+let widthCount = 428
 let heightCount = 2245
 let sourceBasePath = 'F:/img/绯月樱临时'
 let targetBasePath = 'F:/img/绯月樱'
