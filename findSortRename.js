@@ -32,10 +32,10 @@ function copyAndPaste(sourcePath, targetPath, imageCount) {
 // width:457
 // height:2436
 
-let widthCount = 2980;
-let heightCount = 13774;
-let basePath = "F:/img";
-let modelName = "杨晨晨";
+let widthCount = 912;
+let heightCount = 7512;
+let basePath = "E:/image";
+let modelName = "绯月樱";
 let sourceBasePath = `${basePath}/${modelName}临时`;
 let targetBasePath = `${basePath}/${modelName}`;
 
